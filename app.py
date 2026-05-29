@@ -48,3 +48,4 @@ def recommendations(req: func.HttpRequest) -> func.HttpResponse:
             str(e),
             status_code=500
         )
+#push
